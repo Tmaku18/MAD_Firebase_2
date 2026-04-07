@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986411634949",
+    "project_id": "mad-ica12-inventory-tmaku",
+    "storage_bucket": "mad-ica12-inventory-tmaku.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986411634949:android:53e8054b9595c22b58676c",
+        "android_client_info": {
+          "package_name": "edu.gsu.tmaku.mad_firebase_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmlMN6gi5woHiKxmgj_sJoq18Rlfv3su4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
